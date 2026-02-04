@@ -5,7 +5,7 @@ A Claude Code skill for auditing iOS/macOS UI against Apple Human Interface Guid
 ## Installation
 
 ```bash
-npx add-skill https://github.com/jacoblewisau/design-hig-principles
+npx skills add https://github.com/jacoblewisau/design-hig-principles
 ```
 
 ## Usage
