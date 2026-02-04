@@ -1,5 +1,9 @@
 ---
 name: design-hig-principles
+aliases:
+  - design-HIG-principles
+  - hig-audit
+  - hig
 description: Audit iOS/macOS UI against Apple Human Interface Guidelines. Provides context-aware, multi-perspective feedback on colors, typography, layout, accessibility, and platform conventions.
 ---
 
